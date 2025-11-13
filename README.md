@@ -12,7 +12,12 @@ Execução realizada em macOS – Novembro/2025
 Este repositório contém uma suíte de testes automatizados desenvolvida para validar os principais endpoints da **Dog API**:  
 https://dog.ceo/dog-api/documentation/
 
-Os testes foram escritos em **Java 17**, utilizando **Maven**, **JUnit 5**, **Rest Assured** e **Jackson** para desserialização de JSON.
+## Resumo
+
+A automação foi estruturada utilizando Java 17, Maven, JUnit 5, Rest Assured e Jackson, garantindo robustez, legibilidade e padronização.  
+Foram implementados cenários positivos e negativos, validação de estrutura JSON, verificação de status HTTP, inspeção de conteúdo, além da geração automática de relatórios HTML por meio do Surefire Report.
+
+O projeto foi desenvolvido para ser facilmente executado em qualquer ambiente (macOS, Windows ou Linux), necessitando apenas de Java e Maven instalados. Toda execução é reproduzível com um único comando.
 
 ---
 

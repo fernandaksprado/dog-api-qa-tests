@@ -1,5 +1,7 @@
 # Testes Automatizados – Dog API (QA)
 
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
 Documento elaborado por: Fernanda Prado  
 Execução realizada em macOS – Novembro/2025
 

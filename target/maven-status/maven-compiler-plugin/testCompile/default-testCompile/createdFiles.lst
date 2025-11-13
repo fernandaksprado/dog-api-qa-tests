@@ -1,0 +1,5 @@
+br/com/qa/dogapi/BaseTest.class
+br/com/qa/dogapi/DogApiTests$BreedsListTests.class
+br/com/qa/dogapi/DogApiTests.class
+br/com/qa/dogapi/DogApiTests$BreedImagesTests.class
+br/com/qa/dogapi/DogApiTests$RandomImageTests.class

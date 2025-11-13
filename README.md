@@ -1,6 +1,10 @@
 # Testes Automatizados – Dog API (QA)
 
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+![Java](https://img.shields.io/badge/java-17-blue)
+![Maven](https://img.shields.io/badge/build-maven-success)
+![Last Commit](https://img.shields.io/github/last-commit/fernandaksprado/dog-api-qa-tests)
+
 
 Documento elaborado por: Fernanda Prado  
 Execução realizada em macOS – Novembro/2025
